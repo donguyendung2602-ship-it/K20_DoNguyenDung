@@ -1,0 +1,2 @@
+16/11 | Viết nội dung README.md theo mẫu 5 mục | AI gợi ý khung nội dung giới thiệu sản phẩm, tính năng và 3 bước cách mở | Em chỉnh sửa lại tên nút menu và đường dẫn Demo cho khớp với trang web thật của em.
+16/11 | Sửa lỗi lệnh git remote và git push khi đẩy bài lên GitHub | AI hướng dẫn thêm đúng cú pháp origin và đẩy code lên nhánh main | Em chạy lại lệnh thành công và kiểm tra hiển thị trực tiếp trên GitHub.
