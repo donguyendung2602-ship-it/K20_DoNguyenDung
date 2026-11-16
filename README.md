@@ -5,7 +5,7 @@
 Đây là website giới thiệu thông tin cá nhân, kỹ năng và các dự án học tập của sinh viên Đỗ Nguyễn Dũng (K20). Sản phẩm được xây dựng nhằm phục vụ môn học và làm hồ sơ năng lực trực tuyến dành cho giảng viên cũng như nhà tuyển dụng thực tập.
 
 ## Demo
-https://github.io
+https://github.com/donguyendung2602-ship-it/K20_DoNguyenDung.git
 
 ## Tính năng
 - **Trang chủ / Giới thiệu:** Hiển thị thông tin cơ bản, mục tiêu nghề nghiệp và các kỹ năng lập trình đã tích lũy.
