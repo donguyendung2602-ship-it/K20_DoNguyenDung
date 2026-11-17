@@ -2,8 +2,7 @@
 # K20_DoNguyenDung - Website Portfolio Cá Nhân
 
 ## Sản phẩm này là gì?
-Đây là website giới thiệu thông tin cá nhân, kỹ năng và các dự án học tập của sinh viên Đỗ Nguyễn Dũng (K20). Sản phẩm được xây dựng nhằm phục vụ môn học và làm hồ sơ năng lực trực tuyến dành cho giảng viên cũng như nhà tuyển dụng thực tập.
-
+Đây là website giới thiệu thông tin cá nhân, kỹ năng và các dự án học tập của sinh viên Đỗ Nguyễn Dũng . Sản phẩm được xây dựng nhằm phục vụ môn học và làm hồ sơ năng lực trực tuyến dành cho giảng viên.
 ## Demo
 https://github.com/donguyendung2602-ship-it/K20_DoNguyenDung.git
 
